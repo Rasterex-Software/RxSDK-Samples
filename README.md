@@ -1,10 +1,10 @@
 # RxSDK-Samples
-Windows SDK Samples 
-COM and ActiveX
+## Windows SDK Samples 
+## COM and ActiveX
 
 Available samples:
 
-rxPrintDocument
+rxPrintDocument<br>
 C# command line application
 Demonstrates how to print a file using RxSDK.
 
