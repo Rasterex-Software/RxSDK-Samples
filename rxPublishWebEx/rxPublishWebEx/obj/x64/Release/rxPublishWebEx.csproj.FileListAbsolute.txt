@@ -1,3 +1,0 @@
-S:\RxSDK\Samples\rxPublishWebEx\rxPublishWebEx\obj\x64\Release\Interop.RXCONVERTCOMLib.dll
-S:\RxSDK\Samples\rxPublishWebEx\rxPublishWebEx\obj\x64\Release\Interop.RXDOCCOMLib.dll
-S:\RxSDK\Samples\rxPublishWebEx\rxPublishWebEx\obj\x64\Release\rxPublishWebEx.csproj.ResolveComReference.cache
