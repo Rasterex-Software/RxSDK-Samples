@@ -1,6 +1,6 @@
 
 Sample C# command line application that demonstrates how to print any file using RxSDK.
-Command line syntax:
+Usage:
 rxPrintCOM.exe /command inputfile #
 
 Available commands :
