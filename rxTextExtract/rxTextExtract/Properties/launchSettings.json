@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rxTextExtract": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Testfiles\\PDF\\5TOUR.pdf\" \"c:\\temp\\test.txt\""
+    }
+  }
+}
