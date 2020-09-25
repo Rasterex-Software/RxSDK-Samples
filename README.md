@@ -1,5 +1,5 @@
 # RxSDK
-## Windows SDK Samples 
+## Windows Samples 
 ## COM and ActiveX
 
 Available samples:
