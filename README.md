@@ -1,4 +1,4 @@
-# RxSDK-Samples
+# RxSDK Desktop
 ## Windows SDK Samples 
 ## COM and ActiveX
 
